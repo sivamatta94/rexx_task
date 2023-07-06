@@ -1,4 +1,4 @@
-# rexx_task
+# PHP_task
 step to run this task
 1. create database
 2. update database detail in connect.php
